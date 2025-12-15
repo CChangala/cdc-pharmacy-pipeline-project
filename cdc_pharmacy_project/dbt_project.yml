@@ -18,4 +18,6 @@ models:
   cdc_pharmacy_project:
     +materialized: view
     staging:
+      +materialized: view
+    marts:           
       +materialized: table
