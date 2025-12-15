@@ -18,7 +18,6 @@ The final output is an analytical mart (`agg_quarterly_state_utilization`) ready
 ## 📐 Data Model (Star Schema)
 The project utilizes a Star Schema to structure the data for analytical querying. 
 
-[Image of Star Schema Diagram]
 
 
 | Model Name | Type | Materialization | Purpose |
