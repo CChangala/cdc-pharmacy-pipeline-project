@@ -8,4 +8,4 @@ dbt_packages/
 *.pyc
 # Raw data files - too large for GitHub
 data/*.csv
-logs/
+logs/data/sdud-2025-updated-dec2025.csv
