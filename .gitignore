@@ -6,3 +6,6 @@ __pycache__/
 target/
 dbt_packages/
 *.pyc
+# Raw data files - too large for GitHub
+data/*.csv
+logs/
