@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: pharmacy-pipeline-2025
+    schema: raw_data
+    tables:
+      - name: cms_utilization_raw
